@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**SlesSam/SlesSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Leslie (SlesSam)
 
-Here are some ideas to get you started:
+🌱 Desarrolladora en crecimiento, enfocada en backend con Node.js y frontend con React o Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💡 Me apasiona aprender, mejorar y construir proyectos que ayuden a los demás.  
+✨ Fan de TypeScript,JavaScript, Kotlin.... y todo lo que tenga que ver con código limpio y útil.
+
+🛠️ Tecnologías con las que trabajo:
+- Node.js / Express
+- React / Angular / HTML / CSS / TypeScript
+- MongoDB / PostgreSQL
+- Docker / Git
+
+🚀 Actualmente:
+- Preparándome para mi nuevo reto profesional como Fullstack Node.js
+- Trabajando en nuevos proyectos que pronto verás aquí 👀
+
+<!--📫 Puedes contactarme:
+[¡Tu email o LinkedIn aquí!]
 -->
+> “No importa lo lento que avances, mientras no te detengas.” ✨
